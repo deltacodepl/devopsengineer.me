@@ -10,3 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Ignore dev/ folder
+dev/
+# Ignore public/ folder
+public/
